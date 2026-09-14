@@ -59,8 +59,6 @@ PASSWORDS = (
     "lovelili",
     "lovelily",
     "lililove",
-    "lililovesmenot",
-    "Ilovelilinomore",
 )
 
 SEVEN_ZIP_SIGNATURE = b"7z\xbc\xaf\x27\x1c"
