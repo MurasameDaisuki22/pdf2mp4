@@ -138,8 +138,6 @@ py7zr
 lovelili
 lovelily
 lililove
-lililovesmenot
-Ilovelilinomore
 ```
 
 4. 解压后递归搜索所有子文件夹。
